@@ -1,1 +1,1 @@
-print("new feature update 2026")
+print("update from github")
