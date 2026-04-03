@@ -1,1 +1,1 @@
-print("update from github")
+print("GitHub change")
